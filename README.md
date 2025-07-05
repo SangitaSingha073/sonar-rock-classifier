@@ -9,6 +9,7 @@ This project is a **Flask web application** that predicts whether a given sonar 
 ```bash
 git clone https://github.com/yourusername/sonar-rock-classifier.git
 cd sonar-rock-classifier
+```
 
 ##  Model accuracy
 
