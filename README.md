@@ -7,7 +7,7 @@ This project is a **Flask web application** that predicts whether a given sonar 
 ##  How to download this repository
 
 ```bash
-git clone https://github.com/yourusername/sonar-rock-classifier.git
+git clone https://github.com/SangitaSingha073/sonar-rock-classifier.git
 cd sonar-rock-classifier
 ```
 
@@ -15,7 +15,7 @@ cd sonar-rock-classifier
 
 The logistic regression model was evaluated on a held-out test set.
 
-**Test accuracy:** ~78.57%
+**Test accuracy:** ~76.19%
 
 ### Confusion Matrix
 The model's confusion matrix on test data:
